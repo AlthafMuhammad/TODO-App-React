@@ -4,11 +4,20 @@ class Todo extends Component{
     constructor(props){
         super(props);
         this.state={
-            items: []
+            items: [],
+            txtContent:""
 
         }
     }
+
+    txtChange=(e)=>{
+        this.setState({txtContent:e.target.value});
+    }
     
+    addItem=(e)=>{
+        this.state.items.push(this.state.txtContent);
+        this.setState({items:this.state.items});
+    }
     
     render(){
 
@@ -19,8 +28,8 @@ class Todo extends Component{
             <div>
                 <h1>TODO App</h1>
                 <div>
-                    <input type="text"/>
-                    <button>Add</button>
+                    <input type="text" onChange={this.txtChange}/>
+                    <button onClick={this.addItem}>Add</button>
                     <br/>
                     {this.state.items.map((itm,k)=>{
                         return(
