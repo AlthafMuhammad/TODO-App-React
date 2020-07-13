@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AlthafMuhammad/TODO-App-React.github.io/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/AlthafMuhammad/TODO-App-React.github.io/static/js/main.df79a147.chunk.js",
-    "main.js.map": "/AlthafMuhammad/TODO-App-React.github.io/static/js/main.df79a147.chunk.js.map",
-    "runtime-main.js": "/AlthafMuhammad/TODO-App-React.github.io/static/js/runtime-main.fb394e5a.js",
-    "runtime-main.js.map": "/AlthafMuhammad/TODO-App-React.github.io/static/js/runtime-main.fb394e5a.js.map",
-    "static/js/2.240c38ff.chunk.js": "/AlthafMuhammad/TODO-App-React.github.io/static/js/2.240c38ff.chunk.js",
-    "static/js/2.240c38ff.chunk.js.map": "/AlthafMuhammad/TODO-App-React.github.io/static/js/2.240c38ff.chunk.js.map",
-    "index.html": "/AlthafMuhammad/TODO-App-React.github.io/index.html",
-    "precache-manifest.140dc648e2cf3269a22c07991623e369.js": "/AlthafMuhammad/TODO-App-React.github.io/precache-manifest.140dc648e2cf3269a22c07991623e369.js",
-    "service-worker.js": "/AlthafMuhammad/TODO-App-React.github.io/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/AlthafMuhammad/TODO-App-React.github.io/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.240c38ff.chunk.js.LICENSE.txt": "/AlthafMuhammad/TODO-App-React.github.io/static/js/2.240c38ff.chunk.js.LICENSE.txt"
+    "main.css": "/TODO-App-React/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/TODO-App-React/static/js/main.df79a147.chunk.js",
+    "main.js.map": "/TODO-App-React/static/js/main.df79a147.chunk.js.map",
+    "runtime-main.js": "/TODO-App-React/static/js/runtime-main.4b567cd2.js",
+    "runtime-main.js.map": "/TODO-App-React/static/js/runtime-main.4b567cd2.js.map",
+    "static/js/2.240c38ff.chunk.js": "/TODO-App-React/static/js/2.240c38ff.chunk.js",
+    "static/js/2.240c38ff.chunk.js.map": "/TODO-App-React/static/js/2.240c38ff.chunk.js.map",
+    "index.html": "/TODO-App-React/index.html",
+    "precache-manifest.fd51745b517924f8740152814ae5e6ba.js": "/TODO-App-React/precache-manifest.fd51745b517924f8740152814ae5e6ba.js",
+    "service-worker.js": "/TODO-App-React/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/TODO-App-React/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.240c38ff.chunk.js.LICENSE.txt": "/TODO-App-React/static/js/2.240c38ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb394e5a.js",
+    "static/js/runtime-main.4b567cd2.js",
     "static/js/2.240c38ff.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.df79a147.chunk.js"
