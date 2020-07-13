@@ -36,7 +36,7 @@ class Todo extends Component{
                 <h1>TODO App</h1>
                 <div>
                     <input type="text" onChange={this.txtChange}/>
-                    <button onClick={this.addItem}>Add</button>
+                    <button onClick={this.addItem} >Add</button>
                     <br/>
                     {this.state.items.map((itm,k)=>{
                         return(
